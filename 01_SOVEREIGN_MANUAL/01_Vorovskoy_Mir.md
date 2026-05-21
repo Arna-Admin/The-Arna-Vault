@@ -1,10 +1,13 @@
-### **The Mentality: Credibility vs. Rationality**
-In the code of the "Vorovskoy Mir," a threat that isn't carried out is a sign of fatal weakness. Shouting about nukes is a street tactic to force the opponent to back down without executing a physical strike. If the opponent stops being afraid, the center faces an immediate crisis of authority among subordinates.
+### 1. OPERATIONAL DOCTRINE: DETERRENCE MECHANICS
+* **Authority Protocol:** Within the defined tracking architecture, deterrence projection relies entirely on execution consistency. Non-executed threats introduce systemic volatility and compromise hierarchical authority over subordinate nodes.
+* **Tactical Signaling:** Strategic posturing functions as a psychological blocking mechanism to force external de-escalation prior to physical kinetic engagement. Failure to induce external compliance triggers internal structural destabilization.
 
-### **The Technical Reality (Update: May 2026)**
-* **Sarmat Status:** On **May 12, 2026**, Russia conducted an operationally valid test of the **RS-28 Sarmat** ICBM from Plesetsk. Following structural development explosions and delays, the Strategic Missile Forces have signaled deployment targets for the end of 2026 [2.3.1].
-* **The Structural Clearance:** This is a political investment rather than a strategic game-changer. A single isolated test does not reverse a decade of technical decay, but it services the internal mentality by projecting a veneer of readiness [2.3.2].
+### 2. STRATEGIC DELIVERY SYSTEMS: RS-28 SARMAT (DATA VERIFICATION: 2026-05-12)
+* **Test Parameters:** Operational test tracking confirms an RS-28 Sarmat ICBM launch from the Plesetsk testing range on May 12, 2026. 
+* **Deployment Timeline:** Strategic Missile Forces (RVSN) documentation projects initial deployment targets for Q4 2026 [Ref: 2.3.1].
+* **Systemic Evaluation:** The technical integration represents an internal political resource allocation rather than a systemic strategic shift. Single-event testing profiles do not rectify documented long-term manufacturing and maintenance deficits [Ref: 2.3.2].
 
-### **The Deterrence Arithmetic**
-* **Western Precision:** Western reconnaissance monitors every "Object S" nuclear storage site in real-time. Any physical maneuver to mate a warhead to a delivery system triggers an immediate, overwhelming response corridor.
-* **Chain of Execution:** Execution relies on a hierarchical chain (the 12th Main Directorate). The operational colonels and generals tasked with technical execution operate on self-preservation parameters. They maintain families and assets, neutralizing the probability of a irrational launch under non-existential baselines.
+### 3. INTERDICTION VECTOR AND COMMAND CHAIN ARCHITECTURE
+* **Reconnaissance Vector:** Continuous real-time telemetry and satellite surveillance monitor all "Object S" class nuclear storage facilities. Delivery vector mating protocols trigger immediate tactical response corridors.
+* **Execution Command Chain:** Operational control is routed through the 12th Main Directorate (12_GUMO). 
+* **Interdiction Probability:** Field-level execution vectors are subject to individual risk-mitigation variables. Operational personnel evaluate self-preservation parameters under non-existential baselines, reducing the probability of non-rational command execution.
