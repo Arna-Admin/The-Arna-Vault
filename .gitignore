@@ -1,0 +1,7 @@
+# Ignore all development trash
+node_modules/
+package-lock.json
+package.json
+deploy_directory.js
+build_broadcast.sh
+feed.xml
