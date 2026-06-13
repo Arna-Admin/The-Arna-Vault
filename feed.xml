@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Sovereign Technical Manual</title>
+  <link>https://arna-admin.github.io/The-Arna-Vault</link>
+  <description>Immutable data ledger regarding structural geography, mechanics, and systemic logic.</description>
+  <language>en-us</language>
+    <item>
+      <title>GEMINI</title>
+      <link>https://arna-admin.github.io/The-Arna-Vault/GEMINI.md</link>
+      <guid>https://arna-admin.github.io/The-Arna-Vault/GEMINI.md</guid>
+      <description>Technical Manual Module Node: GEMINI</description>
+    </item>
+</channel>
+</rss>
