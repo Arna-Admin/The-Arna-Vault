@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# 1. Execute the RSS Generation Engine using direct interpreter routing
+# 1. Compile the local RSS syndication tree
 bash ./generate_rss.sh
 
-# 2. Stage the newly compiled distribution channels for tracking
-git add feed.xml
+# 2. Execute the Termux-to-IPFS direct network upload
+bash ./pin_to_ipfs.sh
 
-echo "Status: System ready for broadcast push."
+echo "Status: Dual-channel deployment sequence completed."
